@@ -1,7 +1,7 @@
-# Online C++ ile Nesne Yönelimli Programlama Dili Kursu - 13 Temmuz 2026
+# Online C++ ile Nesne Yönelimli Programlama Dili Kursu - 14 Eylül 2026
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
-+ Kurs __13 Temmuz 2026__ tarihinde başlayacaktır.
++ Kurs __14 Eylül 2026__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi  __220__ saattir. 
