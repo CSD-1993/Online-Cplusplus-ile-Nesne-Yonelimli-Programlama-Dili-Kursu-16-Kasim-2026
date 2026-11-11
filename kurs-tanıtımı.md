@@ -22,7 +22,7 @@
 Bu kursta __C++__ dilinin _C_ dilinden aldığı temel sentaks ve araçlar anlatılmadığından bu programa katılabilmek için belirli seviyede _C_ bilmeniz gerekmektedir. 
 
 ## Eğitim Süresi
-Programın toplam süresi __220__ saattir. 
+Programın toplam süresi __180__ saattir. 
 
 ## Ders Günleri ve Saatleri
 Dersler __Pazartesi ve Çarşamba__ günleri __19:45 – 22:45__ saatleri arasında __3’er saat__ olarak yapılacaktır.
