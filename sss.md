@@ -11,8 +11,8 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
 Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile __Vimeo__ üzerinden izleyebilirsiniz.
 
-### 220 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında __220__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebilirim. Bu kursu tamamlayanlar __220__ saatlik __ C++__ kursuna katılmaya aday olurlar.
+### 180 saatlik bir kurs süresi çok uzun değil mi?
+Eğitim içeriği göz önüne alındığında __180__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebilirim. Bu kursu tamamlayanlar __220__ saatlik __ C++__ kursuna katılmaya aday olurlar.
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Tabi ki. __Online C++ Dili__ kursunun katılımcıları arasında yurt dışında çalışan ya da okuyan çok sayıda kişi bulunmakta.
